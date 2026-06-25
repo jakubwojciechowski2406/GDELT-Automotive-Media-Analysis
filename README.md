@@ -37,7 +37,7 @@ Decompresses and reconstructs full article text. Filtered to English-language co
 Applies brand keyword filter and deduplicates by URL.
 
 - **Brands:** BYD, NIO, XPeng, Geely, SAIC, MG, Tesla, BMW, Audi, Mercedes, Ford
-- **Output:** `final_data_kuba.csv` — 63 deduplicated articles
+- **Output:** `automotive_media_dataset.csv` — 63 deduplicated articles
 
 ## 3. Output dataset
 
