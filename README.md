@@ -41,7 +41,7 @@ Applies brand keyword filter and deduplicates by URL.
 
 ## 3. Output dataset
 
-`final_data_kuba.csv` — 63 articles, 4 columns: `Text`, `Date`, `URL`, `Source`
+`automotive_media_dataset.csv` — 63 articles, 4 columns: `Text`, `Date`, `URL`, `Source`
 
 | Source | Articles |
 |--------|----------|
@@ -84,5 +84,5 @@ Note: `gdeltdata/` and `gdeltpreprocessed/` are not included in this repo due to
 - `Code/01_download.ipynb` — Step 1: GDELT data download
 - `Code/02_reconstruct.ipynb` — Step 2: article reconstruction and portal filtering
 - `Code/03_filter_merge.ipynb` — Step 3: brand keyword filtering and deduplication
-- `final_data_kuba.csv` — output dataset (63 articles)
+- `automotive_media_dataset.csv` — output dataset (63 articles)
 - `Group_3_52438_52593_49872_52607_Social_Networks_Analysis_with_the_use_of_API_Project_Presentation.pdf` — full project presentation (Group 3)
